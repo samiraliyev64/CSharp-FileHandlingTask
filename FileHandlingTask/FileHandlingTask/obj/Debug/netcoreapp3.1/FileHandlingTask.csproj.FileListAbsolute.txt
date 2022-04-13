@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\FileHandlingTask\FileHandlingTask\bin\Debug\netcoreapp3.1\FileHandlingTask.exe
+C:\Users\HP\source\repos\FileHandlingTask\FileHandlingTask\bin\Debug\netcoreapp3.1\FileHandlingTask.deps.json
+C:\Users\HP\source\repos\FileHandlingTask\FileHandlingTask\bin\Debug\netcoreapp3.1\FileHandlingTask.runtimeconfig.json
+C:\Users\HP\source\repos\FileHandlingTask\FileHandlingTask\bin\Debug\netcoreapp3.1\FileHandlingTask.runtimeconfig.dev.json
+C:\Users\HP\source\repos\FileHandlingTask\FileHandlingTask\bin\Debug\netcoreapp3.1\FileHandlingTask.dll
+C:\Users\HP\source\repos\FileHandlingTask\FileHandlingTask\bin\Debug\netcoreapp3.1\FileHandlingTask.pdb
+C:\Users\HP\source\repos\FileHandlingTask\FileHandlingTask\obj\Debug\netcoreapp3.1\FileHandlingTask.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FileHandlingTask\FileHandlingTask\obj\Debug\netcoreapp3.1\FileHandlingTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\FileHandlingTask\FileHandlingTask\obj\Debug\netcoreapp3.1\FileHandlingTask.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FileHandlingTask\FileHandlingTask\obj\Debug\netcoreapp3.1\FileHandlingTask.AssemblyInfo.cs
+C:\Users\HP\source\repos\FileHandlingTask\FileHandlingTask\obj\Debug\netcoreapp3.1\FileHandlingTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FileHandlingTask\FileHandlingTask\obj\Debug\netcoreapp3.1\FileHandlingTask.dll
+C:\Users\HP\source\repos\FileHandlingTask\FileHandlingTask\obj\Debug\netcoreapp3.1\FileHandlingTask.pdb
+C:\Users\HP\source\repos\FileHandlingTask\FileHandlingTask\obj\Debug\netcoreapp3.1\FileHandlingTask.genruntimeconfig.cache
+C:\Users\HP\source\repos\FileHandlingTask\FileHandlingTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\FileHandlingTask\FileHandlingTask\obj\Debug\netcoreapp3.1\FileHandlingTask.csproj.CopyComplete

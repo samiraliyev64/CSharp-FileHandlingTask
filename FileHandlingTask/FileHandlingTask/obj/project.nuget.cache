@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xIMU6BLdpArEclxhNJ+Dlf/drsThLIX1aeCWAEZIw9b+oxNprFp9R1ztmMXp/LVNI61Fx77rjDhSmWGY3AdRjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\FileHandlingTask\\FileHandlingTask\\FileHandlingTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
