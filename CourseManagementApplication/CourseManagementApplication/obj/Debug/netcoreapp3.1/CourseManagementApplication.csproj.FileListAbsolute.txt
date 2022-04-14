@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\CourseManagementApplication\CourseManagementApplication\bin\Debug\netcoreapp3.1\CourseManagementApplication.exe
+C:\Users\HP\source\repos\CourseManagementApplication\CourseManagementApplication\bin\Debug\netcoreapp3.1\CourseManagementApplication.deps.json
+C:\Users\HP\source\repos\CourseManagementApplication\CourseManagementApplication\bin\Debug\netcoreapp3.1\CourseManagementApplication.runtimeconfig.json
+C:\Users\HP\source\repos\CourseManagementApplication\CourseManagementApplication\bin\Debug\netcoreapp3.1\CourseManagementApplication.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CourseManagementApplication\CourseManagementApplication\bin\Debug\netcoreapp3.1\CourseManagementApplication.dll
+C:\Users\HP\source\repos\CourseManagementApplication\CourseManagementApplication\bin\Debug\netcoreapp3.1\CourseManagementApplication.pdb
+C:\Users\HP\source\repos\CourseManagementApplication\CourseManagementApplication\obj\Debug\netcoreapp3.1\CourseManagementApplication.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CourseManagementApplication\CourseManagementApplication\obj\Debug\netcoreapp3.1\CourseManagementApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CourseManagementApplication\CourseManagementApplication\obj\Debug\netcoreapp3.1\CourseManagementApplication.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CourseManagementApplication\CourseManagementApplication\obj\Debug\netcoreapp3.1\CourseManagementApplication.AssemblyInfo.cs
+C:\Users\HP\source\repos\CourseManagementApplication\CourseManagementApplication\obj\Debug\netcoreapp3.1\CourseManagementApplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CourseManagementApplication\CourseManagementApplication\obj\Debug\netcoreapp3.1\CourseManagementApplication.dll
+C:\Users\HP\source\repos\CourseManagementApplication\CourseManagementApplication\obj\Debug\netcoreapp3.1\CourseManagementApplication.pdb
+C:\Users\HP\source\repos\CourseManagementApplication\CourseManagementApplication\obj\Debug\netcoreapp3.1\CourseManagementApplication.genruntimeconfig.cache
